@@ -9,7 +9,7 @@
 - [x] GB/T 31076.1-2014	汉文古籍特藏藏品定级 第1部分：古籍
 - [x] GB/T 35662-2017	古籍函套技术要求
 - [x] GB/T 36748-2018	中国少数民族文字古籍定级
-- [ ] 【废止】GB/T 3792.7-1987	古籍著录规则
+- [x] 【废止】GB/T 3792.7-1987	古籍著录规则
 - [x] 【废止】GB/T 3792.7-2008	古籍著录规则
 - [x] GB/Z 40637-2021	古籍印刷通用字规范字形表
 
@@ -30,7 +30,7 @@
 
 ## 附录
 
-**古籍资源网站:**
+**古籍资源网站**
 
 - 中国古典文献资源导航系统（别名：奎章阁；维护者 唐宸） <https://www.wenxianxue.cn> ~~www.kuizhangge.cn~~
 - 中科院·自然科学史研究所 <https://www.ihns.ac.cn/njgsz/zcbm/lytsg/zydh/sjkdh/zwdj/>
@@ -38,7 +38,7 @@
 - 书格 <https://www.shuge.org>
 - 识典古籍 <https://www.shidianguji.com/zh/>
 
-**相关资料：**
+**相关资料**
 
 - CALIS标准规范 <http://www.calis.edu.cn/pages/list.html?id=f6bd617e-ea6e-4087-bf2b-d37aa9ab24b5>
 - 古籍政策与标准规范 <https://guji.library.hb.cn/gywm/gjzc/>
